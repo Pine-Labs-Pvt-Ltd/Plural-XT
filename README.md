@@ -1,2 +1,2 @@
-# Payment-Gateway-Optimizer
-Payment Gateway Optimizer
+# Plural XT
+Plural XT
